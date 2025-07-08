@@ -1,3 +1,5 @@
+в ветке master лежит код
+
 pip install flask
 python app.py
 
